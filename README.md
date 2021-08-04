@@ -41,3 +41,9 @@ Logistic Regression : 0.4076
 Support Vector Classifier : 0.5522
 Conclusion
 Best accuracy comes from Support vector classifier. Although, It can be further improved by using neural networks (which i will be deploying in other repository.)
+
+TEAM MEMBERS
+Abhijeet Verma ( B19CSE001 )
+Abhinav Kashyap ( B19CSE002 )
+Aditya Devade ( B19CSE002 )
+
